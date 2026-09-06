@@ -19,7 +19,7 @@ index.html               redirect to the course home page
 teachtemplatestyles.css  the single shared stylesheet
 Images/                  shared images and lecture maps
 mbmls/
-  mbmls_HTMLs/           the 24 course pages
+  mbmls_HTMLs/           the 26 course pages
   mbmls_PDFs/            study guides, handouts, lab material
 MCB/
   MCB_HTMLs/             six "medical perspective" pages linked from the lectures
